@@ -1,5 +1,8 @@
 # Cafe-Website
 Cafe Website (Frontend) using HTML, CSS, Tailwind CSS
+```python
+egrgthtg
+```
 # Home page of our website.
 
 <img width="1066" alt="cafe-website-home-section" src="https://github.com/Pankaj352/Cafe-Website/assets/100466858/cc69f571-d4a1-4ea9-ad73-31b26b23203a">
