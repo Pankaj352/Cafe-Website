@@ -1,5 +1,5 @@
 # Cafe-Website
-Cafe Website (Frontend) using HTML, CSS, Tailwind CSS
+Cafe Website (Frontend) using HTML, CSS
 
 # Home page of our website.
 
