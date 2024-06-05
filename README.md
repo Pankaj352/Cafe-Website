@@ -1,5 +1,5 @@
 # Cafe-Website
-Cafe Website (Frontend) using HTML, CSS
+Cafe Website (Frontend) using HTML, CSS, JavaScript
 
 # Home page of our website.
 
